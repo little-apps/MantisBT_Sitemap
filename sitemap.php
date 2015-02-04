@@ -2,7 +2,7 @@
 /**
  * MantisBT_Sitemap - Generates a sitemap for MantisBT
  * @package MantisBT_Sitemap
- * @link https://github.com/PHPMailer/PHPMailer/ The MantisBT_Sitemap GitHub project
+ * @link https://github.com/little-apps/MantisBT_Sitemap The MantisBT_Sitemap GitHub project
  * @author Little Apps (https://www.little-apps.com)
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License v3
 */

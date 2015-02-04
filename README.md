@@ -10,6 +10,8 @@ The following is a rewrite rule the most popular web servers. This should be at 
 
     RewriteRule sitemap\.xml sitemap.php [L]
 
+You should now be able to view the sitemap by navigating to something like ``http://example.com/sitemap.xml``
+	
 ### Notes ###
  - By default, MantisBT sets the meta value of ``robots`` to ``noindex,follow`` on some of the pages. This causes search engines to not cache the page but links will be followed.
  - MantisBT implements RSS feeds which are located at ``http://example.com/issues_rss.php`` and ``http://example.com/news_rss.php``. These can also be submitted to Google's and Bing's Webmaster Tools.
